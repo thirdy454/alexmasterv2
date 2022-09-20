@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String PRODUCTNAME = "productname";
     private static final String PRODUCTPRICE = "productprice";
     private static final String PRODUCTSTOCKS = "productstocks";
-
+    //master alex ay pogi
     EditText name,price,stocks;
     Button add,load, update, btn_delete_stocks, btn_delete_all;
     TextView output;
